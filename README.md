@@ -11,3 +11,13 @@ Merupakan sebuah program yang memungkinkan user mengetik perintah atau command y
 •	Terminal
 User dan komputer dihubungkan dengan namanya terminal, yaitu tempat/aplikasi dimana user dapat mengetikan atau memberikan suatu perintah. Disinilah tempat dimana shell akan berperan.
 
+
+Command
+
+	pwd (print working directory), fungsinya untuk melihat current working directory
+	Dir (directory), untuk melihat directory
+	Cd (change directory), untuk berpindah dari satu direktori ke directory lain
+	Is (list), untuk melihat isi file di dalam directory
+	Touch, untuk membuat file directorycp (copy), untuk menyalin file directory
+	Mv (move), untuk memindahkan file directory
+	Rm (remove), untuk menghapus file directory
