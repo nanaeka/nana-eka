@@ -79,14 +79,13 @@ Setup Awal GIT
 
 DEFINISI HTML
 
-    HTML adalah singkatan dari Hypertext Markup Language. HTML digunakan untuk menampilkan konten pada browser.Contoh konten yang dapat ditampilkan seperti Text, Image, Video, Link, dan masih banyak lainnya.
+HTML adalah singkatan dari Hypertext Markup Language. HTML digunakan untuk menampilkan konten pada browser.Contoh konten yang dapat ditampilkan seperti Text, Image, Video, Link, dan masih banyak lainnya.
 
 
-
-     •	 Tools yang dibutuhkan untuk untuk membuat HTML yaitu web browser dan code editor 
-     •	Visual Studio Code merupakan salah satu code editor yang dibuat oleh Misrosoft
-     •	Keunggulan dari Visual Studio Code yaitu Intellisense, Run and Debug, Built in Git, Extensions
-     •	HTML Structure
+ • Tools yang dibutuhkan untuk untuk membuat HTML yaitu web browser dan code editor 
+ • Visual Studio Code merupakan salah satu code editor yang dibuat oleh Misrosoft
+ • Keunggulan dari Visual Studio Code yaitu Intellisense, Run and Debug, Built in Git, Extensions
+ • HTML Structure
      
  
  
