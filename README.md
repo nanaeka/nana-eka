@@ -1,6 +1,9 @@
 Rangkuman Week1
 
+
+
 Unix Commad Line
+
  
  •	Shell
 Agar bisa terhubung dengan komputer maka user akan memerlukan penerjemah. Maka dari itu user memerlukan yang namanya shell. Definisi shell secara harfiah sendiri adalah program yang digunakan untuk berkomunikasi atau memerintah sistem.
@@ -13,6 +16,7 @@ User dan komputer dihubungkan dengan namanya terminal, yaitu tempat/aplikasi dim
 
 
 Command
+
 
 	pwd (print working directory), fungsinya untuk melihat current working directory
 
