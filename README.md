@@ -53,27 +53,27 @@ WHY’ should use GIT and Github?
 
 Setup Awal GIT
 
-     •	Konfigurasi git
+ •	Konfigurasi git
 
-     •	Melihat hasil konfigurasi dengan git config –list
+ •	Melihat hasil konfigurasi dengan git config –list
 
-     •	Membuat Repository
+ •	Membuat Repository
 
-     •	git init (dilakukan didalam folder yang dibuat)
+ •	git init (dilakukan didalam folder yang dibuat)
 
-     •	git Status digunakan untuk melihat apakah terjadi perubahan atau tidak pada Git
+ •	git Status digunakan untuk melihat apakah terjadi perubahan atau tidak pada Git
 
-     •	git add untuk menambah file baru/file yang telah diubah pada Git
+ •	git add untuk menambah file baru/file yang telah diubah pada Git
 
-     •	git remote menghubungkan remote repository dengan project local yang telah kita buat direktorinya
+ •	git remote menghubungkan remote repository dengan project local yang telah kita buat direktorinya
 
-     •	git commit -m commit message digunakan untuk menyimpan perubahan pada Git
+ •	git commit -m commit message digunakan untuk menyimpan perubahan pada Git
 
-     •	git push-u origin master digunakan untuk mengirimkan/perubahan file ke remote repository git branch-b [nama branch] digunakan untuk membuat branch baru
+ •	git push-u origin master digunakan untuk mengirimkan/perubahan file ke remote repository git branch-b [nama branch] digunakan untuk membuat branch baru
 
-     •	git checkout digunakan untuk berpindah branch
+ •	git checkout digunakan untuk berpindah branch
 
-     •	git merge digunakan untuk menggabungkan branch cabang ke branch master
+ •	git merge digunakan untuk menggabungkan branch cabang ke branch master
 
 
 
@@ -95,20 +95,20 @@ Contoh tag HTML
 
 Tag HTML
 
-•	Untuk menampilkan tulisan miring/tebal
+• Untuk menampilkan tulisan miring/tebal
 
 	<b></b>
 	<i></i>
  
-•	Untuk membuat tulisan dengan link
+• Untuk membuat tulisan dengan link
 
 	<a href=""></a>
  
-•	 Untuk menampilkan gambar
+• Untuk menampilkan gambar
 
 	<img src=""></img>
  
-•	Untuk membuat paragraph
+• Untuk membuat paragraph
 	<p></p>
 
 
@@ -121,16 +121,21 @@ CSS
 Cara Menggunakan CSS
 
 
-•	Inline Styles
+•	
+Inline Styles
 
-	Kita menambahkann CSS  langsung pada atribut HTML
+Kita menambahkann CSS  langsung pada atribut HTML
+ 
+ 
  
  <p style="color:red">Tulisan ini berwarna merah</p>
  
  
-•	Internal CSS
+• Internal CSS
 
-	Kita menggunakan element/tag <style> untuk menyisipkan kode CSS. 	element/tag <style> diletakkan di dalam element <head>
+Kita menggunakan element/tag <style> untuk menyisipkan kode CSS. 	
+	
+element/tag <style> diletakkan di dalam element <head>
  
                 <!DOCTYPE html>
          <html>
@@ -155,7 +160,7 @@ Cara Menggunakan CSS
         </html>
  
  
-•	Eksternal CSS
+•Eksternal CSS
 
 	Kita akan menyisipkan kode CSS dengan cara membuat file CSS terpisah, 	dan lalu menyambungkannya dengan file HTML dengan menggunakan 	element . Element tersebut diletakkan di dalam element
 
@@ -163,7 +168,7 @@ Cara Menggunakan CSS
 
 
 
-•	CSS Syntax
+• CSS Syntax
 
 
 	CSS Syntax adalah syntax yang digunakan untuk menunjuk 	atau memilih HTML element mana yang ingin diberi style 	(dihias). CSS syntax terdiri dari selector, property, dan 	value.
@@ -173,15 +178,116 @@ Syntaxnya seperti ini:
 
 
 p {
+	
   color: blue;
+	
 }
 
 
+	
+ flexbox
+	
+• Flexbox adalah suatu cara untuk mengatur layout atau tata letak
+	
+• Flexbox terdiri 1 parent (container) dan bisa beberapa child
+	
+•Flex di rection digunakan untuk mengatur letak child
+	
+• Flex wrap mengatur tata letak child pada 1 line
+	
+• Flex flow yaitu digunakan sebagai shortcut untuk set up flex-direction dan flex-wrap secara bersamaan 
+	
+• Order digunakan untuk ordering item yang ingin diatur posisinya
+	
+• Justify content digunakan untuk mengatur täta letak antar item child secara horizontal
+	
+• Align content digunakan untuk mengatur tata letak antar item child secara vertikal atau cross axis
+	
+• Flex-grow digunakan untuk mengatur size suatu item child pada flexbox
+	
+• Flex-shrink digunakan untuk memperkecil size suatu item child secara relatif terhadap item child lamnya
+
+	
+	
 
     
  Algoritma dan Struktur Data
    
 
+	
+	
+Algoritma
+	
+	
+• Algortima Adalah deskripsi berupa step-step yang dibutuhkan untuk menyelesaikan suatu masalah. Untuk menyelesaikan suatu masalah, tentunya kita harus mempunyai data struktur, nah data inilah yang akan kita gunakan untuk menyelesaikan suatu masalah dengan menggunakan algoritma.
+	
+	
+ 
+• Mengapa kita memerlukan algoritma?
+	
+Manfaat algoritma antara lain:
+	
+	
+o Membantu menyederhanakan suatu program yang rumit dan juga besar.
+	
+o Mempermudah pembuatan program yang dapat menyelesaikan masalah tertentu.
+	
+o Membantu menyelesaikan suatu masalah dengan logika dan juga sistematis.
+	
+
+Kualitas Algortima
+	
+Kualitas wajib dari algoritma
+	
+	
+o Input dan output harus didefinisikan terlebih dahulu dengan tepat
+	
+o Setiap step harus benar-benar clear dan tidak ambigu
+	
+o Algoritma seharusnya tidak mengandung suatu code pada bahasa pemograman tertentu.
+	
+o Algoritma harus dibuat agar dapat digunakan dalam bahasa pemograman apapun.
+	
+	
+	
+
+Soal
+
+Buatlah Algoritma untuk menyelesaikan problem ini
+David memiliki program yang membutuhkan untuk convert data dari jumlah jam ke detik
 
 
+
+Contohnya jika program memiliki input 2 jam maka output yang diharapkan adalah 7200 detik
+
+	
+	
+Jawaban
+	
+	
+
+Mulai
+	
+Deklarasi variabel n, hasil_convert
+	
+Menambahkan nilai n
+	
+Melakukan proses (n jam = n \* 3600" lalu disimpan ke dalam hasil_convert
+	
+Menampilkan hasil convert (n jam) = + "detik"
+	
+Stop
+
+
+
+Panduan menulis pseudocode: 
+	
+	
+• Huruf kapital digunakan untuk menulis perintah
+	
+• 1 statement hanya terdiri dari 1 baris
+	
+• Menggunakan indentasi
+	
+• Harus bersifat spesifik dan simple
 
