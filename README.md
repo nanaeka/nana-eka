@@ -15,9 +15,15 @@ User dan komputer dihubungkan dengan namanya terminal, yaitu tempat/aplikasi dim
 Command
 
 	pwd (print working directory), fungsinya untuk melihat current working directory
+
 	Dir (directory), untuk melihat directory
+
 	Cd (change directory), untuk berpindah dari satu direktori ke directory lain
+
 	Is (list), untuk melihat isi file di dalam directory
+
 	Touch, untuk membuat file directorycp (copy), untuk menyalin file directory
+
 	Mv (move), untuk memindahkan file directory
+
 	Rm (remove), untuk menghapus file directory
