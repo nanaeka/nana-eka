@@ -54,24 +54,34 @@ WHY’ should use GIT and Github?
 Setup Awal GIT
 
  •	Konfigurasi git
+ 
 
  •	Melihat hasil konfigurasi dengan git config –list
+ 
 
  •	Membuat Repository
+ 
 
  •	git init (dilakukan didalam folder yang dibuat)
+ 
 
  •	git Status digunakan untuk melihat apakah terjadi perubahan atau tidak pada Git
+ 
 
  •	git add untuk menambah file baru/file yang telah diubah pada Git
+ 
 
  •	git remote menghubungkan remote repository dengan project local yang telah kita buat direktorinya
+ 
 
  •	git commit -m commit message digunakan untuk menyimpan perubahan pada Git
+ 
 
  •	git push-u origin master digunakan untuk mengirimkan/perubahan file ke remote repository git branch-b [nama branch] digunakan untuk membuat branch baru
+ 
 
  •	git checkout digunakan untuk berpindah branch
+ 
 
  •	git merge digunakan untuk menggabungkan branch cabang ke branch master
 
@@ -159,7 +169,7 @@ Kita menggunakan element/tag <style> untuk menyisipkan kode CSS.element/tag <sty
  
 •Eksternal CSS
 
-	Kita akan menyisipkan kode CSS dengan cara membuat file CSS terpisah, 	dan lalu menyambungkannya dengan file HTML dengan menggunakan 	element . Element tersebut diletakkan di dalam element
+Kita akan menyisipkan kode CSS dengan cara membuat file CSS terpisah, 	dan lalu menyambungkannya dengan file HTML dengan menggunakan 	element . Element tersebut diletakkan di dalam element
 
 
 
@@ -168,7 +178,7 @@ Kita menggunakan element/tag <style> untuk menyisipkan kode CSS.element/tag <sty
 • CSS Syntax
 
 
-	CSS Syntax adalah syntax yang digunakan untuk menunjuk 	atau memilih HTML element mana yang ingin diberi style 	(dihias). CSS syntax terdiri dari selector, property, dan 	value.
+CSS Syntax adalah syntax yang digunakan untuk menunjuk 	atau memilih HTML element mana yang ingin diberi style 	(dihias). CSS syntax terdiri dari selector, property, dan value.
  
  
 Syntaxnya seperti ini:
@@ -186,23 +196,33 @@ p {
 	
 • Flexbox adalah suatu cara untuk mengatur layout atau tata letak
 	
+	
 • Flexbox terdiri 1 parent (container) dan bisa beberapa child
+	
 	
 •Flex di rection digunakan untuk mengatur letak child
 	
+	
 • Flex wrap mengatur tata letak child pada 1 line
 	
-• Flex flow yaitu digunakan sebagai shortcut untuk set up flex-direction dan flex-wrap secara bersamaan 
+	
+• Flex flow yaitu digunakan sebagai shortcut untuk set up flex-direction dan flex-wrap secara bersamaan
+	
 	
 • Order digunakan untuk ordering item yang ingin diatur posisinya
 	
+	
 • Justify content digunakan untuk mengatur täta letak antar item child secara horizontal
+	
 	
 • Align content digunakan untuk mengatur tata letak antar item child secara vertikal atau cross axis
 	
+	
 • Flex-grow digunakan untuk mengatur size suatu item child pada flexbox
 	
+	
 • Flex-shrink digunakan untuk memperkecil size suatu item child secara relatif terhadap item child lamnya
+	
 
 	
 	
@@ -227,9 +247,12 @@ Manfaat algoritma antara lain:
 	
 o Membantu menyederhanakan suatu program yang rumit dan juga besar.
 	
+	
 o Mempermudah pembuatan program yang dapat menyelesaikan masalah tertentu.
 	
+	
 o Membantu menyelesaikan suatu masalah dengan logika dan juga sistematis.
+	
 	
 
 Kualitas Algortima
@@ -241,9 +264,12 @@ Kualitas wajib dari algoritma
 	
 o Input dan output harus didefinisikan terlebih dahulu dengan tepat
 	
+	
 o Setiap step harus benar-benar clear dan tidak ambigu
 	
+	
 o Algoritma seharusnya tidak mengandung suatu code pada bahasa pemograman tertentu.
+	
 	
 o Algoritma harus dibuat agar dapat digunakan dalam bahasa pemograman apapun.
 	
@@ -319,7 +345,7 @@ Contoh :
 
 	
 	
-	Conditional
+Conditional
 	
 	
 	
@@ -329,7 +355,7 @@ Conditional digunakan saat dibutuhkan percabangan kasus. Komputer akan melakukan
 	
 	
 
-	Jika hari ini tidak hujan, maka Bob pergi ke pasar,jika tidak maka Bob dirumah aja.
+Jika hari ini tidak hujan, maka Bob pergi ke pasar,jika tidak maka Bob dirumah aja.
 	
 		IF "bright"
 		DO "go to the market"
@@ -339,7 +365,7 @@ Conditional digunakan saat dibutuhkan percabangan kasus. Komputer akan melakukan
 	
 	
 	
-	Looping
+Looping
 	
 	
 	
@@ -384,17 +410,17 @@ Javascript
 												
 												
 										
-•	Menjalankan Javascript
+• Menjalankan Javascript
 												
 												
 
-	Javascript dijalankan melalui browser pada device setiap user Umumnya browser Chrome dan Mozilla yang sudah support untuk semua fitur Javascript.
+Javascript dijalankan melalui browser pada device setiap user Umumnya browser Chrome dan Mozilla yang sudah support untuk semua fitur Javascript.
 
 												
 Console Log
 												
 												
-	Console Log adalah hal yang krusial bagi developer web. Console log adalah tempat kita untuk cek logic pemograman web yang kita kembangkan Console log juga tempat kita untuk melakukan debugging (mengetahui error pada code) pada pemograman web.
+Console Log adalah hal yang krusial bagi developer web. Console log adalah tempat kita untuk cek logic pemograman web yang kita kembangkan Console log juga tempat kita untuk melakukan debugging (mengetahui error pada code) pada pemograman web.
 												
 												
 												
@@ -405,26 +431,26 @@ Ada 6 tipe data fundamental pada Javascript
 												
 												
 											
-•	Number :  Tipe data number adalah tipe data yang mengandung semua angka termasuk angka desimal.
+•Number  :  Tipe data number adalah tipe data yang mengandung semua angka termasuk angka desimal.
 												
 												
-•	String : Tipe data string adalah grup karakter yang ada pada keyboard laptop/PC kita yaitu letters (huruf), number (angka), spaces (spasi), symbol, dan lainnya.
+• String : Tipe data string adalah grup karakter yang ada pada keyboard laptop/PC kita yaitu letters (huruf), number (angka), spaces (spasi), symbol, dan lainnya.
 												
 												
-•	Boolean : Tipe data boolean adalah tipe data yang hanya mempunyai 2 buah nilai.
+• Boolean : Tipe data boolean adalah tipe data yang hanya mempunyai 2 buah nilai.
 		2 buah nilai tersebut adalah TRUE (benar) or FALSE (salah).
 
 												
-•	Null : 
+• Null : 
 												
-1.	Tipe data null adalah tipe data yang diartikan bahwa sebuah variable/data tidak memiliki nilai.
+1.Tipe d ata null adalah tipe data yang diartikan bahwa sebuah variable/data tidak memiliki nilai.
 												
-2.	Null berbeda dengan string kosong. String kosong masih memiliki tipe data string.
+2. Null berbeda dengan string kosong. String kosong masih memiliki tipe data string.
 												
-•	Undefined : Tipe data undefined adalah tipe data yang merepresentasikan varibel/data yang tidak memiliki nilai.Undefined berbeda dengan null.
+• Undefined : Tipe data undefined adalah tipe data yang merepresentasikan varibel/data yang tidak memiliki nilai.Undefined berbeda dengan null.
 												
 												
-•	Object : Tipe data object adalah koleksi data yang saling berhubungan (related). Tipe data pbject dapat menyimpan data dengan tipe data apapun (number, string, boolean, dan lainnya).Tipe data object mempunyai key dan value.
+• Object : Tipe data object adalah koleksi data yang saling berhubungan (related). Tipe data pbject dapat menyimpan data dengan tipe data apapun (number, string, boolean, dan lainnya).Tipe data object mempunyai key dan value.
 												
 
 												
@@ -464,18 +490,18 @@ Ada 6 tipe data fundamental pada Javascript
 Operator
 												
 												
-•	Assignment Operator (=)
+•Assignment Operator (=)
+		 										
+• Mathematical Assignment Operator
 												
-•	Mathematical Assignment Operator
+• Arithmetic Operator
 												
-•	Arithmetic Operator
-												
-•	Logical Operator
+• Logical Operator
 												
 												
 												
 
-•	CONDITIONAL
+• CONDITIONAL
 												
 												
 Conditional merupakan statement percabangan yang menggambarkan suatu kondisi. Conditional statement akan mengecek kondisi spesifik dan menjalankan perintah berdasarkan kondisi tersebut Yang dicek adalah apakah kondisi tersebut TRUE (benar).Jika TRUE maka code didalam kondisi tersebut dijalankan.
@@ -486,23 +512,23 @@ Conditional merupakan statement percabangan yang menggambarkan suatu kondisi. Co
 LOOPING
 												
 												
-	Looping adalah statement yang mengulang sebuah instruksi hingga kondisi terpenuhi atau jika kondisi stop/berhenti tercapai.
+Looping adalah statement yang mengulang sebuah instruksi hingga kondisi terpenuhi atau jika kondisi stop/berhenti tercapai.
 
 
 FOR LOOP
 												
 												
- 	merupakan instruksi pengulangan yang dapat kita berikan pada program yang kita kembangkan. Gunakan FOR LOOP jika kita tahu seberapa banyak nilai pasti untuk pengulangannya
+ merupakan instruksi pengulangan yang dapat kita berikan pada program yang kita kembangkan. Gunakan FOR LOOP jika kita tahu seberapa banyak nilai pasti untuk pengulangannya
 
 												
 WHILE LOOP
 												
 												
-	WHILE LOOP akan menjalankan instruksi pengulangan kondisi bernilai TRUE. Gunakan WHILE LOOP jika kita tidak mengetahui jumlah pasti pengulangan.
+WHILE LOOP akan menjalankan instruksi pengulangan kondisi bernilai TRUE. Gunakan WHILE LOOP jika kita tidak mengetahui jumlah pasti pengulangan.
 
 
 DO WHILE 
-	Terkadang kita ingin setidaknya menjalankan pengulangan 1 kali sebelum dilakukan pengecekan kondisi Jika kita membuat looping didalam looping. Maka ini dinamakan Nested Loop.
+Terkadang kita ingin setidaknya menjalankan pengulangan 1 kali sebelum dilakukan pengecekan kondisi Jika kita membuat looping didalam looping. Maka ini dinamakan Nested Loop.
 Looping pertama dianalogikan sebagai baris.
 Looping kedua dianalogikan sebagai kolom
 
