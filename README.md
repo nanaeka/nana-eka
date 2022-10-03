@@ -1,8 +1,8 @@
-Rangkuman Week1
+# Rangkuman Week1
 
 
 
-Unix Commad Line
+# Unix Commad Line
 
  
  •	Shell
@@ -37,7 +37,7 @@ Git & GitHub(GIT adalah Tools untuk programmer)
 
 
 
-GIT 
+# GIT 
 
   sebagai Version Control System (dalah mencatat setiap perubahan pada File)Git adalah aplikasi yang dapat melacak setiap perubahan yang terjadi pada suatu folder atau file.Git biasanya digunakan oleh para programmer sebagai tempat penyimpanan file pemrograman mereka, karena lebih efektif.File -file yg disimpan menggunakan git akan terlacak seluruh perubahannya, termasuk siapa yang mengubah.
 
@@ -87,7 +87,7 @@ Setup Awal GIT
 
 
 
-DEFINISI HTML
+# HTML
 
 HTML adalah singkatan dari Hypertext Markup Language. HTML digunakan untuk menampilkan konten pada browser.Contoh konten yang dapat ditampilkan seperti Text, Image, Video, Link, dan masih banyak lainnya.
 
@@ -123,7 +123,7 @@ Tag HTML
 
 
 
-CSS
+# CSS
 
 
 
@@ -192,7 +192,7 @@ p {
 
 
 	
- flexbox
+ # flexbox
 	
 • Flexbox adalah suatu cara untuk mengatur layout atau tata letak
 	
@@ -228,7 +228,7 @@ p {
 	
 
     
- Algoritma dan Struktur Data
+# Algoritma dan Struktur Data
    
 
 	
@@ -255,7 +255,7 @@ o Membantu menyelesaikan suatu masalah dengan logika dan juga sistematis.
 	
 	
 
-Kualitas Algortima
+# Kualitas Algortima
 	
 	
 Kualitas wajib dari algoritma
@@ -345,7 +345,7 @@ Contoh :
 
 	
 	
-Conditional
+# Conditional
 	
 	
 	
